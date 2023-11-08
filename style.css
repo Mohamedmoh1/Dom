@@ -1,0 +1,59 @@
+img{
+    width: 300px;
+    height: 330px;
+}
+
+.all{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.ico{
+    margin-left: 115px;
+}
+
+.pm0{
+    margin-left: 122px;
+}
+
+h2{
+    margin-left: 115px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h3{
+    margin-left: 121px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.Hoodie{
+    background-color: #A0A0A0;
+    padding: 17px;
+    border-radius: 10px;
+}
+
+.Short{
+    background-color: #A0A0A0;
+    padding: 17px;
+    border-radius: 10px;
+}
+
+.Pants{
+    background-color: #A0A0A0;
+    padding: 17px;
+    border-radius: 10px;
+}
+.btnM{
+    color: red;
+}
+
+.btnP{
+    color: #7CFC00	;
+}
+
+h1{
+    font-family: 'Comfortaa', sans-serif;
+    margin-left: 781px;
+}
